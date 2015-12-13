@@ -11,6 +11,12 @@
             "email": "helios.ag@gmail.com"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/helios-ag/FMSteamcondenserBundle"
+        }
+    ],
     "require": {
         "php":                           ">=5.3.3",
         "symfony/symfony":               "~2.4",
