@@ -1,5 +1,5 @@
 {
-    "name": "Jerome1337/fm-steamcondenser-bundle",
+    "name": "jerome1337/fm-steamcondenser-bundle",
     "type": "symfony-bundle",
     "description": "Symfony SteamcondenserBundle",
     "keywords": ["steam", "webapi", "symfony", "steam-condenser"],
