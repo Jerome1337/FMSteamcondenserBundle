@@ -3,14 +3,16 @@ FMSteamcondenserBundle
 
 Add some Steam[http://steampowered.com] to your Symfony 2 project!
 
+**This repo is a fixed FMSteamCondenserBundle from original author [Helios-ag](https://github.com/helios-ag)**
+**Original repo right here : https://github.com/helios-ag/FMSteamcondenserBundle**
+
 This bundle allows you to query game servers, getting information about players/Steam users, getting server information,
 such as current player list and etc.
-Bundle depends on [Steam Condenser](/koraktor/steam-condenser-php ) library by [Sebastian Staudt](/koraktor)
+Bundle depends on [Steam Condenser](https://github.com/koraktor/steam-condenser) library by [Sebastian Staudt](https://github.com/koraktor)
 
-This Bundle status is WIP (work in progress)
 # Installation
 
-To install this bundle, you'll need both the [Steam Condenser](/koraktor/steam-condenser-php )
+To install this bundle, you'll need both the [Steam Condenser](https://github.com/koraktor/steam-condenser)
 and this bundle.
 
 ## Step 1: Installation
